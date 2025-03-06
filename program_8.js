@@ -1,3 +1,5 @@
+// Tree traversals and operations.
+
 class Node {
     constructor(value) {
       this.value = value;
